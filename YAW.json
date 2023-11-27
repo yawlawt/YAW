@@ -6,7 +6,6 @@
          "name": "TH_001",
          "url": "https://raw.githubusercontent.com/yawlawt/YAW/main/DTAC%20LINE%20.ovpn"
       }
-
       {
          "name": "TH_002",
          "url": "https://raw.githubusercontent.com/yawlawt/YAW/main/free1%20line.ovpn"
@@ -17,5 +16,5 @@
 
    "title":"Net Plus" ,
 
-   "version": 4.2
+   "version": 4.3
 }
