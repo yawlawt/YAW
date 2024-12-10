@@ -1,6 +1,6 @@
 {
 
-"version": 3,
+"version": 4,
 "message": "TrueNo-pro \nFreeချိတ်သုံးပါ",
 
 "files": [
@@ -22,12 +22,11 @@
       
       },
 
-         {
-        //server-4
-      "F5prq10Ma3Xg4vQc6cS0GX9YCoD6K9gnRy7fDNgKYyW4RklA555ja4/BDIFv1mJPX0mEfpa1uVlwngQ2G8UH2BWVrmAH8l/CxlNs7cfdYinsVRXl4GtvqbyPL3VO6IMX5kdwyoHwm7/vjlOqyV+qPm/52ypvovRvTljnvNKy8WPYzhrFXSuOrPhwnMMTuUTe24wcsMnU3r88YugJ+opTrEZOWvU="
+{
+        //server-3
+      "config": "F5prq10Ma3Xg4vQc6cS0GX9YCoD6K9gnRy7fDNgKYyW4RklA555ja4/BDIFv1mJPX0mEfpa1uVlwngQ2G8UH2BWVrmAH8l/CxlNs7cfdYinsVRXl4GtvqbyPL3VO6IMX5kdwyoHwm7/vjlOqyV+qPm/52ypvovRvTljnvNKy8WPYzhrFXSuOrPhwnMMTuUTe24wcsMnU3r88YugJ+opTrEZOWvU="
       
-         }
-      
+}
 
    ],
 
