@@ -1,0 +1,38 @@
+{
+
+"version": 1,
+"message": "TrueNo-pro \nTrueNo-pro",
+
+"files": [
+
+{
+         //server-1
+         "config": "UT/SKjS3M/S7urRp3L+Av300P1nZ8oxD3NXiiYF/7FKAQbdGqJ2QK9RHNiFr18H++BWziNiPKy+GwyDV4/bvSGZXPEI4ZYDpQuIoBcjzIQF52yOkdIRR2hgnbhfoWZ24D7ZcehRU04kuS+8w4furjqTPMf31ZEMM5LMohp+a6K5TyKMQzDIrOEQfdpoGh4MwtEJhtug+m3xdNGbZkvq61LjjPXE="
+     
+},
+{
+        //server-2
+      "config": "cfoTJ10rlPsEbUuH7z4fTy8bwvW4O+ZEI1YRDAf/L1/Sog118YMWKf0IvuAci6YOZ6BNco3KV0x4I+yoABkVW5uUiTSGeQrlzMerTHDN/McYMSNqVgbh2ZJl6oOLBoJsZz+mIROVd1iFXYLDfS2P/Ov/YAWooV5Ngg4BhZNNhsKnrD7GichcMPeveHQk9+3TfE6f5v7e1TSc8GiAzjgNyq9eBU0="
+      
+      },
+
+{
+        //server-3
+      "config": "cfoTJ10rlPsEbUuH7z4fTy8bwvW4O+ZEI1YRDAf/L1/Sog118YMWKf0IvuAci6YOZ6BNco3KV0x4I+yoABkVW5uUiTSGeQrlzMerTHDN/McYMSNqVgbh2ZJl6oOLBoJsZz+mIROVd1iFXYLDfS2P/Ov/YAWooV5Ngg4BhZNNhsKnrD7GichcMPeveHQk9+3TfE6f5v7e1TSc8GiAzjgNyq9eBU0="
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+
+
+
+}
