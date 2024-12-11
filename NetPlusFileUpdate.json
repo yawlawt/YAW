@@ -1,7 +1,7 @@
 {
 
-"version": 6,
-"message": "TrueNo-pro \nFree or VIPချိတ်သုံးပါ",
+"version": 7,
+"message": "True No-pro \nFree ချိတ်သုံးပါ",
 
 "files": [
 
@@ -20,25 +20,8 @@
         //server-3
       "config": "zleTpvDO3l7fkSKneU5nLvv6RYiat8g9/F/gaSsFRsV1Fc/vEuEjoZIRAP4aLqCBaqeV5wQtzhXy+OH+f9YmIZtCPo8Kw0rGf9yepIq0IOIoWmrmmNGfCErrbWoUP2UiE8BgeI+wC5RDhwct5ZyG1NcyyTrA2XDAiPCRa3zaFFi6FIsL2oDYsb+uqHCkXtz+Ht2lS+HYRmgs/5G4NcnJJZgRl+E="
       
-      },
-
-{
-        //server-4
-      "config": "zleTpvDO3l7fkSKneU5nLvv6RYiat8g9/F/gaSsFRsV1Fc/vEuEjoZIRAP4aLqCBaqeV5wQtzhXy+OH+f9YmIZtCPo8Kw0rGf9yepIq0IOIoWmrmmNGfCErrbWoUP2UiE8BgeI+wC5RDhwct5ZyG1NcyyTrA2XDAiPCRa3zaFFi6FIsL2oDYsb+uqHCkXtz+Ht2lS+HYRmgs/5G4NcnJJZgRl+E="
-      
-      },
-
-{
-        //server-5
-      "config": "8UdhtOFrNRY0fa9oOARRu9qEqVI+yDyH9vIXJdsuirmrRxSnKAVqrWvo8nQsgvxz5Ac5P1JP05a++TkswwEr/MIidpkntF62rH0ZVf2qe27orcaliBYE00Pn9TGp8iQiL4MI3zwpX5fhG2iAuRStAmtX1dFneOz9vxsAV78uH9/GgTMXrn5vn5eJ90b96fJhQXQO/D9vpFAWbySG2VOGl2Afop0SjtR/"
-      
-      },
-      
-{
-        //server-6
-      "config": "1l2cE9aXb3cgUZvIdSHEQZdN8V38B/I0avOK5nTl4gIwoS46KpeTyA5cQEDxLjzF49Z9PCVT7vldbLcTHR4Bfte7D8sx0TPzS9MCoB+EwToYmWvnGL+o+Z0mKSUoWh83yjVtx0oLlIBUqqZYMtOZf4aVuNscbXMyHCfOhCqoO6ox2GRm4E1l42IuNGQBP49RgPsxD/KOWM3CNs4JF6q66TY5ISG8LT07"
-      
       }
+
 
 
    ],
