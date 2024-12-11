@@ -1,6 +1,6 @@
 {
 
-"version": 7,
+"version": 8,
 "message": "True No-pro \nFree ချိတ်သုံးပါ",
 
 "files": [
@@ -20,8 +20,13 @@
         //server-3
       "config": "zleTpvDO3l7fkSKneU5nLvv6RYiat8g9/F/gaSsFRsV1Fc/vEuEjoZIRAP4aLqCBaqeV5wQtzhXy+OH+f9YmIZtCPo8Kw0rGf9yepIq0IOIoWmrmmNGfCErrbWoUP2UiE8BgeI+wC5RDhwct5ZyG1NcyyTrA2XDAiPCRa3zaFFi6FIsL2oDYsb+uqHCkXtz+Ht2lS+HYRmgs/5G4NcnJJZgRl+E="
       
-      }
+      },
 
+{
+        //server-4
+      "config": "fM/Y1pRMcSdiU+hscmWkDbGinxJqqzxJz5A9q+VmVr3WtRGY08VPyxE93sxPck9y7/2JIogDtqE12Io9pNZoLxKTpi+xcOmxinhwiYYpAMn+/2mBvEq/RBpRcKB/Ty6Kj4Awj7osAm9kgKfq+R0RYGIt7ctqw41IRRAmC/Yo8W9plqdocIVmH00qYAiTCT/7O4LF+Cu/t+xRdjvlkctyfHON0RA="
+      
+}
 
 
    ],
