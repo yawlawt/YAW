@@ -1,8 +1,6 @@
 {
   "packages": [
     "bin.mt.plus", 
-    "com.example.app2",
-    "com.example.app3",
     "com.minhui.networkcapture",
     "com.regable.android"
   ]
