@@ -1,6 +1,6 @@
 {
   "packages": [
-    "bin.mt.plus",
+    "bin.mt.plus", 
     "com.example.app2",
     "com.example.app3",
     "com.minhui.networkcapture",
