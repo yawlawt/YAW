@@ -1,7 +1,12 @@
 {
-  "packages": [
-    "bin.mt.plus", 
+  "packageName": [
+    "bin.mt.plus",
     "com.minhui.networkcapture",
     "com.reqable.android"
+  ],
+  "keywords": [
+    "bin.mt", 
+    "minhui", 
+    "reqable.android"
   ]
 }
